@@ -1,0 +1,7 @@
+*.jpeg
+*.jpg
+/data/
+/lightning_logs/
+/Pre-Trained Models/
+/out/
+/tb_logs/
